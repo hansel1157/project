@@ -1,9 +1,0 @@
-echo "# project-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/hansel1157/project-.git
-git push -u origin main
-
-MTE2ODc2MzI3MzY2ODE5ODQ2Mg.GwhDGs.Qv-t-U47lNL05Pv8FmubvVwHEdGF54sdS-OkBs
